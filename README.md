@@ -1,5 +1,8 @@
 ## Happy Birthday!!!
 
+This is a forked repository originally created by Github user ![faahim](https://github.com/faahim). Please check him out!
+
+
 ### Wish someone special happy birthday in a special way.
 
 #### [See it Live](https://faahim.github.io/happy-birthday/)
